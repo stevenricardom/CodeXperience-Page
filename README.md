@@ -14,7 +14,7 @@
 Puedes disfrutar de CodeXperience en dos plataformas:
 
 * **Demo en la web:** [Jugar en itch.io](https://stevenricardom.itch.io/codexperience)
-  * _Contraseña:_ `123`
+  * _Contraseña:_ `Debes Solicitar Acceso`
 * **Experiencia Inmersiva (Windows):** [Descargar CodeXperience.exe](https://github.com/stevenricardom/CodeXperience/releases/download/realese/CodeXperience.exe)
 
 ## 💻 Sobre esta Landing Page
